@@ -1,6 +1,3 @@
-# Analise-logistica-sp-excel-sql
-Projeto de análise de dados de entregas em São Paulo(Higienópolis,Jardins,Centro, Paulista) usando SQL para estruturação e Excel para Dashboard.
-
 🚚 Logística Inteligente: Dashboard de Entregas SP Capital
 Este projeto apresenta uma solução de monitoramento para operações de entrega em bairros de alta densidade na cidade de São Paulo (Higienópolis, Jardins, Paulista e Centro). O objetivo é transformar dados operacionais brutos em indicadores de performance (KPIs) para otimização de rotas e prazos.
 
